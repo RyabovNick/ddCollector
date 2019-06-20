@@ -18,7 +18,6 @@
   },
   "homepage": "https://github.com/RyabovNick/ddCollector#readme",
   "dependencies": {
-    "canvas": "^2.5.0",
     "jsdom": "^15.1.1"
   }
 }
